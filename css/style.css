@@ -67,7 +67,6 @@ body {
 
 .our-promise__content-box {
 	display: flex;
-	flex-direction: row;
 	flex-wrap: wrap;
 	margin: 0px -12px;
 	row-gap: 24px;
