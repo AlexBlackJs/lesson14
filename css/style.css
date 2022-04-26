@@ -78,7 +78,7 @@ body {
 }
 
 .item-our-promise {
-	align-items: flex-end;
+	align-items: flex-start;
 	display: flex;
 	column-gap: 23px;
 }
