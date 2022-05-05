@@ -142,6 +142,7 @@ body {
 .our-impact__content {
 	padding: 0px 15px;
 	flex: 0 1 50%;
+	align-self: flex-end;
 }
 
 .our-impact__header {
